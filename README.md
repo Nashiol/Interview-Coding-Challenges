@@ -72,4 +72,4 @@ The combination of this repository and LeetLog allows me to:
 
 ---
 
-Thanks for stopping by! If you're also preparing for coding challenges, I hope you find something useful here.
+Thanks for stopping by! If you're also preparing for coding challenges, feel free to contribute and I hope you find something useful here.
