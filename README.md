@@ -26,7 +26,7 @@ Example:
 Each problem folder may include:
 
 * **Solution** – The implementation of the problem.
-* **README.md** – Where the question context will be.
+* **README.md** – Where the question context and the difficulty level will be.
 * **Notes** – Personal notes, observations, or alternative solutions (when applicable).
 
 ## Topics Covered
